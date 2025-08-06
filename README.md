@@ -1,4 +1,6 @@
- ![MasterHead](https://github.com/sivalingamperla123/my_details/blob/main/Screenshot 2025-08-06 112416?raw=true) 
+![MasterHead](https://github.com/sivalingamperla123/sivalingamperla123/blob/main/assets/banner.png?raw=true)
+
+
 <h1 align="center">Hi 👋, I'm Aman Reddy</h1>
 <h3 align="center">I'm a passionate Web developer from Hyderabad</h3>   
 
