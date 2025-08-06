@@ -1,11 +1,11 @@
 ![MasterHead](https://github.com/sivalingamperla123/sivalingamperla123/blob/main/assets/banner.png?raw=true)
 
 
-<h1 align="center">Hi 👋, I'm Aman Reddy</h1>
+<h1 align="center">Hi 👋, I'm Sivalingam Perla</h1>
 <h3 align="center">I'm a passionate Web developer from Hyderabad</h3>   
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanreddy77&label=Profile%20views&color=0e75b6&style=flat" alt="amanreddy77" /> </p>   
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sivalingamperla123&label=Profile%20views&color=0e75b6&style=flat" alt="sivalingamperla123" /> </p>   
    
 - 🔭 I’m currently working on **AI Integrated web apps**   
      
