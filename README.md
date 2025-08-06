@@ -9,7 +9,7 @@
    
 - 🔭 I’m currently working on **School Management Portal**  
 
-- 🌱 I’m currently learning **JavaScript and Reaft**  
+- 🌱 I’m currently learning **JavaScript and React**  
 
 - 👯 I’m looking to collaborate on **Full Stack Django Projects**  
 
@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/aman-reddy-pundru-272b53221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/aman-reddy-pundru-272b53221" height="30" width="40" /></a>
-<a href="https://instagram.com/reddy_aman_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reddy_aman_77" height="30" width="40" /></a>
-<a href="https://medium.com/@reddyaman77.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reddyaman77.ar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/reddyaman77_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/reddyaman77_ar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sivalingamperla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivalingamperla/height="30" width="40" /></a>
+<a href="https://www.instagram.com/__sivalingam__12/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__sivalingam__12/?hl=en" height="30" width="40" /></a>
+<a href="https://github.com/sivalingamperla123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://github.com/sivalingamperla123" height="30" width="40" /></a>
+
 </p>
 
 
