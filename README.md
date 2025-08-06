@@ -2,30 +2,29 @@
 
 
 <h1 align="center">Hi 👋, I'm Sivalingam Perla</h1>
-<h3 align="center">I'm a passionate Web developer from Hyderabad</h3>   
+<h3 align="center">I'm a passionate Django developer from Hyderabad</h3>   
 
  
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sivalingamperla123&label=Profile%20views&color=0e75b6&style=flat" alt="sivalingamperla123" /> </p>   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivalingamperla123&label=Profile%20views&color=0e75b6&style=flat" alt="sivalingamperla123" /> </p>   
    
-- 🔭 I’m currently working on **AI Integrated web apps**   
-     
-- 🌱 I’m currently learning **React Native, c#**       
-      
-- 👯 I’m looking to collaborate on **Chat Bots** 
-  
-- 🤝 I’m looking for help with **Banking Bot App**
+- 🔭 I’m currently working on **School Management Portal**  
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aman-gamma.vercel.app/](https://portfolio-aman-gamma.vercel.app/)
+- 🌱 I’m currently learning **JavaScript and Reaft**  
 
-- 📝 I regularly write articles on [https://medium.com/@reddyaman77.ar](https://medium.com/@reddyaman77.ar)
+- 👯 I’m looking to collaborate on **Full Stack Django Projects**  
 
-- 💬 Ask me about **React, J2EE** 
+- 🤝 I’m looking for help with **Frontend Design & API Integration**  
 
-- 📫 How to reach me **reddyaman77.ar@gmail.com**
+- 👨‍💻 All of my projects are available at [https://sivalingamperla123.github.io/portfolio/](https://sivalingamperla123.github.io/portfolio/) 
 
-- 📄 Know about my experiences [https://portfolio-aman-gamma.vercel.app/](https://portfolio-aman-gamma.vercel.app/)
+- 💬 Ask me about **Django Development and Django REST Framework (DRF)**  
 
-- ⚡ Fun fact **I love development not DSA**
+- 📫 How to reach me **sivalingamperla95@gmail.com**  
+
+- 📄 Know about my experiences [https://sivalingamperla123.github.io/portfolio/](https://sivalingamperla123.github.io/portfolio/)
+
+- ⚡ Fun fact **I enjoy turning ideas into live projects more than solving algorithms 😄**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
